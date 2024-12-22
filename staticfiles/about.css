@@ -19,7 +19,7 @@ a{
 .abo{
     background-image:url(../static/blur.avif.crdownload);
     background-repeat: no-repeat;
-    background-size: 1400px;
+    background-size: 1400vw;
     width:50vw;
     height:90vh;
     padding-left:0px;
