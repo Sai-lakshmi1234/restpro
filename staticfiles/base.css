@@ -1,0 +1,48 @@
+body{
+    background-image:url(../static/pzza.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+.container{
+    background-color: black;
+}
+nav{
+    background-color: rgb(45, 45, 45);
+    height:8vh;
+    padding-top: 10px;
+}
+a{
+    color: white;
+    padding-top: 20px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-style: italic;
+}
+.p{
+    padding-top:200px;
+    padding-right: 200px;
+    font-size: 30px;
+    font-family: Verdana,sans-serif;
+    color: white;
+}
+#m{
+    background-color: black;
+    width:200px;
+    height: 70px;
+    padding-right: 20px;
+    font-size: 15px;
+    color:white;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+#m:active{
+    background-color: rosybrown;
+}
+
+.o{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: burlywood;
+    width:32vw;
+}

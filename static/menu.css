@@ -1,0 +1,153 @@
+body{
+    background-image: url(../static/m.jpg);
+    background-image: blur(8px);
+}
+.container{
+    background-color: black;
+}
+nav{
+    background-color: rgb(45, 45, 45);
+    height:8vh;
+    padding-top: 10px;
+}
+a{
+    color: white;
+    padding-top: 20px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-style: italic;
+}
+#class{
+    width:60vw;
+    height:390vh;
+    background-color:black;
+    padding-top: 80px;
+}
+#h{
+    color:white;
+    font-style: italic;
+    font-size: 40px;
+    padding-top: 20px;
+}
+#non{
+    width: 300px;
+    background-color: white;
+    float:left;
+    border-radius: 10px;
+}
+non::img{
+    padding-right:200px;
+}
+button{
+    padding-bottom: 10px;
+    width:200px;
+    height:30px
+}
+.span{
+    color: orange;
+  }
+#non1{
+    width:300px;
+    height:429px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+    border-color: black;
+    border-width:3px ;
+
+}
+#non2{
+    width:400px;
+    height:429px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non3{
+    width:300px;
+    height:429px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non4{
+    width:300px;
+    height:429px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non5{
+    width:400px;
+    height:429px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non6{
+    width:335px;
+    height:459px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non7{
+    width:335px;
+    height:459px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non8{
+    width:335px;
+    height:459px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non9{
+    width:335px;
+    height:459px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non10{
+    width:335px;
+    height:459px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non11{
+    width:335px;
+    height:459px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+
+}
+#non12{
+    width:335px;
+    height:459px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+}
+#veg1{
+    width:335px;
+    height:459px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+}
+
