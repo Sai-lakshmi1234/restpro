@@ -30,7 +30,7 @@ a{
     padding-top: 20px;
 }
 #non{
-    width: 300px;
+    width: 300vw;
     background-color: white;
     float:left;
     border-radius: 10px;
@@ -47,8 +47,8 @@ button{
     color: orange;
   }
 #non1{
-    width:300px;
-    height:429px;
+    width:300vw;
+    height:429vh;
     background-color: white;
     float: left;
     border-radius: 10px;
@@ -57,72 +57,72 @@ button{
 
 }
 #non2{
-    width:400px;
-    height:429px;
+    width:400vw;
+    height:429vh;
     background-color: white;
     float: left;
     border-radius: 10px;
 
 }
 #non3{
-    width:300px;
-    height:429px;
+    width:300vw;
+    height:429vh;
     background-color: white;
     float: left;
     border-radius: 10px;
 
 }
 #non4{
-    width:300px;
-    height:429px;
+    width:300vw;
+    height:429vh;
     background-color: white;
     float: left;
     border-radius: 10px;
 
 }
 #non5{
-    width:400px;
-    height:429px;
+    width:400vw;
+    height:429vh;
     background-color: white;
     float: left;
     border-radius: 10px;
 
 }
 #non6{
-    width:335px;
-    height:459px;
+    width:335vw;
+    height:459vh;
     background-color: white;
     float: left;
     border-radius: 10px;
 
 }
 #non7{
-    width:335px;
-    height:459px;
+    width:335vw;
+    height:459vh;
     background-color: white;
     float: left;
     border-radius: 10px;
 
 }
 #non8{
-    width:335px;
-    height:459px;
+    width:335vw;
+    height:459vh;
     background-color: white;
     float: left;
     border-radius: 10px;
 
 }
 #non9{
-    width:335px;
-    height:459px;
+    width:335vw;
+    height:459vh;
     background-color: white;
     float: left;
     border-radius: 10px;
 
 }
 #non10{
-    width:335px;
-    height:459px;
+    width:335vw;
+    height:459vh;
     background-color: white;
     float: left;
     border-radius: 10px;
