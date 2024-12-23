@@ -1,7 +1,8 @@
-body{
+.body{
     background-image:url(../static/pzza.jpg);
     background-repeat: no-repeat;
     background-size: 100vw;
+    height: 200vh;
 }
 .container{
     background-color: black;
@@ -23,7 +24,7 @@ a{
     padding-right: 200px;
     font-size: 30px;
     font-family: Verdana,sans-serif;
-    color: white;
+    color:black;
 }
 #m{
     background-color: black;
